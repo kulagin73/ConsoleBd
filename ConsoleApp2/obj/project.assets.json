@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserDev2912\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\UserDev2912\\Desktop\\ConsoleBD\\ConsoleBd\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\UserDev2912\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectPath": "C:\\Users\\UserDev2912\\Desktop\\ConsoleBD\\ConsoleBd\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\UserDev2912\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserDev2912\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\UserDev2912\\Desktop\\ConsoleBD\\ConsoleBd\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UserDev2912\\AppData\\Roaming\\NuGet\\NuGet.Config",

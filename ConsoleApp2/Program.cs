@@ -14,7 +14,7 @@ namespace ConsoleApp2
                 Console.WriteLine("Список объектов:");
                 foreach (Product p in Products)
                 {
-                    Console.WriteLine($"{p.Name}.{p.Price}");
+                    Console.WriteLine($"{p.Name}.{p.Price} {p.ImgUrl}");
                 }
             }
             Console.ReadKey();

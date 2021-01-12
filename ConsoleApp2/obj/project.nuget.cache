@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fGcrchM+vJhDiAiA/qQZf5cgvWYvFlRPmrvP5lougDSXpFYisT8LMfd0cuXvwAShDBTKjv1FmEa49QtrQwjaiw==",
+  "dgSpecHash": "MazUYm/J4wq295WjpVLWHN+a9SUAafnfFAkTE5pfaxm7aUFhGKUY1mQg223wHY55JPMriYAAb07FcXlwtVRY0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UserDev2912\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\UserDev2912\\Desktop\\ConsoleBD\\ConsoleBd\\ConsoleApp2\\ConsoleApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UserDev2912\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\UserDev2912\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
